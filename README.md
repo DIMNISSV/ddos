@@ -6,6 +6,21 @@ The script performs a **DDOS** attack on the site, with proxy and multithreading
 Parse proxies using the *proxyscan module* (https://github.com/NIKDISSV-Forever/proxyscan)
 Requests are sent using the *urllib* library.
 
+### Installation:
+#### Installing proxyscan:
+```pkg / apt install git```
+
+```git clone https://github.com/NIKDISSV-Forever/proxyscan.git; cd proxyscan; python setup.py install; cd ..; rm -rf proxyscan```
+
+Or:
+
+```git clone https://github.com/NIKDISSV-Forever/proxyscan/ ../usr/lib/python3.8/site-packages/proxyscan```
+
+#### Install DDOS:
+```pkg / apt install git```
+
+```git clone https://github.com/DIMNISSV/ddos/```
+
 ### Using:
 **Run the *ddos.py*** file
 **Enter a link** to the site you want to attack,
@@ -22,6 +37,21 @@ This completes all the functions.
 Скрипт выполняет **DDOS** атаку на сайт, с прокси и многопоточностью.
 Прокси парситися с помощью модуля *proxyscan* (https://github.com/NIKDISSV-Forever/proxyscan)
 Запросы отправляются с помощью библиотеки *urllib*.
+
+### Установка:
+#### Установка proxyscan:
+```pkg/apt install git```
+
+```git clone https://github.com/NIKDISSV-Forever/proxyscan.git; cd proxyscan; python setup.py install; cd ..; rm -rf proxyscan```
+
+Или:
+
+```git clone https://github.com/NIKDISSV-Forever/proxyscan/ ../usr/lib/python3.8/site-packages/proxyscan```
+
+#### Установка DDOS:
+```pkg/apt install git```
+
+```git clone https://github.com/DIMNISSV/ddos/```
 
 ### Использование:
 **Запускаете файл *ddos.py***
