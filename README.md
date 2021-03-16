@@ -3,6 +3,7 @@
 Скрипт выполняет **DDOS** атаку на сайт, с прокси и многопоточностью.
 Прокси парситися с помощью модуля *proxyscan* (https://github.com/NIKDISSV-Forever/proxyscan)
 Запросы отправляются с помощью библиотеки *urllib*.
+Написано на Python 3.9
 
 ### Установка:
 #### Установка proxyscan:
@@ -12,7 +13,7 @@
 
 Или:
 
-```git clone https://github.com/NIKDISSV-Forever/proxyscan/ %AppData%\..\Local\Programs\Python\Lib\site-pakages```
+```git clone https://github.com/NIKDISSV-Forever/proxyscan/ %AppData%\..\Local\Programs\Python\Python39\Lib\site-pakages```
 
 #### ***Во избежание конфликта версий здесь уже есть proxyscan.py, так что можете эти шаги пропустить.***
 
