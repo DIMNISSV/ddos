@@ -16,6 +16,8 @@ Or:
 
 ```git clone https://github.com/NIKDISSV-Forever/proxyscan/ ../usr/lib/python3.8/site-packages/proxyscan```
 
+#### ***There is already proxyscan.py here to avoid version conflicts, so you can skip these steps.
+
 #### Install DDOS:
 ```pkg / apt install git```
 
@@ -47,6 +49,8 @@ This completes all the functions.
 Или:
 
 ```git clone https://github.com/NIKDISSV-Forever/proxyscan/ ../usr/lib/python3.8/site-packages/proxyscan```
+
+#### ***Во избежание конфликта версий здесь уже есть proxyscan.py, так что можете эти шаги пропустить.
 
 #### Установка DDOS:
 ```pkg/apt install git```
